@@ -5,8 +5,8 @@ I am a Research Scientist with a background in mathematical and theoretical phys
 - 🐛 **I'm currently working on** Physics-Informed Neural Networks to model animal behaviour
 - 💬 **Ask me about** Theoretical Physics! I'm a former string theorist, and I have several published papers about black holes in higher-dimensional spacetime
 - 🌱 **I'm currently improving** my Python, Machine Learning, and general Data Science skills
-- 👯 **I'm looking to collaborate** on a number of projects in theoretical physics and data visualisation!
-- 😄 **Pronouns** He/Him
+- 😄 **I'm looking to collaborate** on a number of projects in theoretical physics and data visualisation!
+- 👯 **Pronouns** He/Him
 
 <!--
 **Mark-Bugden/Mark-Bugden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
