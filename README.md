@@ -1,8 +1,8 @@
 ### G'day, I'm Mark 👋
 
-I am a Research Scientist with a background in mathematical and theoretical physics, currently exploring exciting new areas of research with machine learning and data science. 
+I am a Machine Learning Scientist with a background in mathematical and theoretical physics, currently exploring exciting new areas of research with machine learning and data science. 
 
-- 🐛 **I'm currently working on** Physics-Informed Neural Networks to model animal behaviour
+- 🐛 **I'm currently working on** Machine Learning projects in Remote sensing and image analysis
 - 💬 **Ask me about** Theoretical Physics! I'm a former string theorist, and I have several published papers about black holes in higher-dimensional spacetime
 - 🌱 **I'm currently improving** my Python, Machine Learning, and general Data Science skills
 - 😄 **I'm looking to collaborate** on a number of projects in theoretical physics and data visualisation!
